@@ -4,6 +4,7 @@ import '../index.css';
 import { _getPhones } from '../utils/_Data.js';
 import { receivePhones } from '../actions/phones';
 import Container from './Container.js';
+//import 'semantic-ui-css/semantic.min.css';
 
 class App extends Component {
   
